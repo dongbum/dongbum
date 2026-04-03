@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi there, I'm Dongbum 👋
 
-<!--
-**dongbum/dongbum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Game Server Engineer | High-Performance C++ Specialist
 
-Here are some ideas to get you started:
+15+ years of expertise in building large-scale game server engines and distributed systems. Dedicated to low-latency architecture, multi-threading, and robust infrastructure. Currently broadening my technical horizons with modern development stacks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Digital Garden
+* **Blog:** [https://dongbum.io](https://dongbum.io) – 기술적인 고민과 배움을 기록하는 공간입니다.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+* **Core Languages:** C++, C
+* **Expertise:** Distributed Systems, High-Concurrency Server Architecture, Performance Tuning, Network Programming
+* **Infrastructure:** Scalable Backend Design, Large-scale Data Management
+* **Tools & Environment:** Git, Linux, CI/CD Pipelines
+
+---
+
+### 🔭 Current Interests
+* Modern development practices and AI-assisted engineering.
+* Exploring the Apple ecosystem (Swift/SwiftUI) as a side passion.
+* System optimization and high-performance computing.
+
+---
+
+### 💬 Connect with me
+* **GitHub:** [dongbum](https://github.com/dongbum)
+* **Philosophy:** I value clean, maintainable code and rock-solid system stability.
+
+---
